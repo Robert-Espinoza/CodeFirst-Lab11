@@ -10687,23 +10687,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alumno\\.nuget\\packages\\": {},
+    "C:\\Users\\Robert\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alumno\\source\\repos\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
+      "projectUniqueName": "C:\\Users\\Robert\\Source\\Repos\\CodeFirst-Lab11\\CodeFirst\\CodeFirst.csproj",
       "projectName": "CodeFirst",
-      "projectPath": "C:\\Users\\Alumno\\source\\repos\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
-      "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alumno\\source\\repos\\CodeFirst\\CodeFirst\\obj\\",
+      "projectPath": "C:\\Users\\Robert\\Source\\Repos\\CodeFirst-Lab11\\CodeFirst\\CodeFirst.csproj",
+      "packagesPath": "C:\\Users\\Robert\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Robert\\Source\\Repos\\CodeFirst-Lab11\\CodeFirst\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Robert\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -10769,7 +10769,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
