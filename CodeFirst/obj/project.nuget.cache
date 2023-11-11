@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "le/Vzmh+qN5IuNap4uFg1GJpbW85ciRXUJGLOgufi5TlX+dRbretE2yhfIBs+DucPmwy3oq8vteofxB4vJLu8w==",
+  "dgSpecHash": "Sw8IUskIzYjIRyGkRmViLhqgQiQT4cXpwhyeko9/o4SnNRZAAbQsEiotfx6zmrSaGJdi/vsEK6Q7NbKZGhI2AA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Robert\\Source\\Repos\\CodeFirst-Lab11\\CodeFirst\\CodeFirst.csproj",
+  "projectFilePath": "C:\\Users\\Robert\\source\\repos\\CodeFirst-Lab11\\CodeFirst\\CodeFirst.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Robert\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Robert\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
